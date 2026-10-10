@@ -22,7 +22,7 @@ function App() {
   }, []);
 
   const cargarPersonas = async () => {
-    const respuesta = await fetch("http://localhost:3000/personas");
+    const respuesta = await fetch("http://localhost:3001/personas");
     const datos = await respuesta.json();
 
     setPersonas(datos);

@@ -1,0 +1,16 @@
+{
+  "personas": [
+    {
+      "tipoDocumento": "CC",
+      "numeroDocumento": "12345678",
+      "nombres": "andres",
+      "apellidos": "alzate",
+      "direccion": "calle de los pumas ",
+      "ciudad": "bogota",
+      "fechaNacimiento": "2020-04-03",
+      "correo": "andre@nfjrjjre",
+      "id": "EF_EDX4L8SU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
